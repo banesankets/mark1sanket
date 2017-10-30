@@ -145,6 +145,7 @@
   <ItemGroup>
     <Content Include="packages.config" />
     <None Include="Properties\PublishProfiles\mark1sanket-Web-Deploy %282%29.pubxml" />
+    <None Include="Properties\PublishProfiles\mark1sanket-Web-Deploy %283%29.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
